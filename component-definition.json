@@ -113,6 +113,21 @@
           }
         },
         {
+          "title": "Card V2",
+          "id": "cardv2",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block/v1/block/item",
+                "template": {
+                  "name": "cardv2",
+                  "model": "cardv2"
+                }
+              }
+            }
+          }
+        },
+        {
           "title": "Columns",
           "id": "columns",
           "plugins": {
