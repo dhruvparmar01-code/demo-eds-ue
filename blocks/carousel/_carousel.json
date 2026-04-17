@@ -44,7 +44,7 @@
         },
         {
           "component": "text",
-          "name": "col1_imageAltText",
+          "name": "col1_imageAlt",
           "value": "",
           "label": "Image Alt Text",
           "valueType": "string"
